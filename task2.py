@@ -196,4 +196,3 @@ while count <= 4:
     count += 1
     if count == 5 and guess != lucky_num:
         print("Sorry but that was not very successful")
-        break
