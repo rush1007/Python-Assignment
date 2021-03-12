@@ -62,7 +62,6 @@ if result < 0:
 else:
     print(result)
 
-
 # 3. Write a program in Python to implement the given flowchart: 
 
 a, b, c = 10, 20, 30
